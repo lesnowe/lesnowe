@@ -1,0 +1,3 @@
+sudo service docker start
+docker login docker.signintra.com
+docker run .....
