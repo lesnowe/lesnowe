@@ -1,3 +1,6 @@
 sudo service docker start
 docker login docker.signintra.com
+
+
+docker exec -it e834605310a0 redis-cli
 docker run .....
